@@ -1,0 +1,8 @@
+hashset = set()
+hashset.add(1)
+hashset.add(1)
+hashset.add(2)
+hashset.add(3)
+hashset.add(4)
+hashset.add(4)
+print (hashset)
